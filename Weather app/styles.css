@@ -1,0 +1,11 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  #weather-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  
